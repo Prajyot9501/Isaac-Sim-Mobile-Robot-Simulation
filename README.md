@@ -1,6 +1,6 @@
 # 🤖 Simulating a Mobile Robot in Isaac Sim 
 A hands-on robotics simulation project using NVIDIA Isaac Sim and ROS 2, designed to explore, build, and control intelligent robots in a virtual environment. 
-This readme includes details about the building, configuring, controlling and accessing data in simulated environment. It is perfect way for you to learn Isaac sim. It all starts with building a mobile robot with chasis, wheel and joints and goes till involving ROS2 bridge to access data from sensors in Rviz.
+This readme includes details about the building, configuring, controlling and accessing data in simulated environment. It is perfect way for you to learn Isaac sim. It all starts with building a mobile robot with chassis, wheel and joints and goes till involving ROS2 bridge to access data from sensors in Rviz.
 
 ![finalDoneProject (1)](https://github.com/user-attachments/assets/ce0f6ba0-4a17-4aa1-b6ec-aef0431c6893)---
 
