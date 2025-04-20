@@ -44,7 +44,7 @@ This project was completed as part of a robotics simulation course focused on ma
 
 ## Screenshots / Demo
 
-_Add GIFs or screenshots here if available to make it more visual._
+![RobotWithLidar](https://github.com/user-attachments/assets/33177964-58a4-4d74-babd-6b73760050ae)
 
 - Robot in Isaac Sim
 - Sensor view in RViz
@@ -53,15 +53,6 @@ _Add GIFs or screenshots here if available to make it more visual._
 
 ---
 
-## Project Structure
-
-```bash
-.
-├── robot_model/           # USD models for chassis, wheels, joints
-├── sensors/               # Camera and lidar sensor configs
-├── config/                # Physics settings and bridge config
-├── scripts/               # ROS 2 control scripts
-├── launch/                # Isaac Sim + ROS 2 launch files
-└── README.md              # This file
+By Prajyot Patil
 
 
